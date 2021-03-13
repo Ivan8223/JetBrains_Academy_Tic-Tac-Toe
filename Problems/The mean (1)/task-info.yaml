@@ -1,0 +1,12 @@
+type: code
+custom_name: The mean
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9503#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 24 Jan 2021 12:11:56 UTC
+record: -1
